@@ -47,4 +47,6 @@ body header#lol{
    top: 0px;
    bottom: 0px;
 }
-
+video{
+	background-image: url(https://gifimage.net/wp-content/uploads/2017/06/loading-gif-13.gif);
+}
