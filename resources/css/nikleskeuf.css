@@ -1,0 +1,106 @@
+body {
+	background-color: #34495e;
+	color: white !important;
+	margin: 0px;
+}
+#header{
+	border: 1px solid black;
+	margin: 10px;
+}
+#main{
+	border: 1px solid black;
+	max-width: 870px;
+	display: inline-block;
+}
+
+.foot
+{
+	text-align: center;
+}
+
+.pagination
+{
+	color: white;
+	margin: auto;
+}
+.gallery {
+	margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    display: inline-block;
+    width:150px;
+    height:180px;
+    text-align: center;
+}
+.pute{
+	max-width: 150px;
+	max-height: 150px;
+}
+body header#lol{
+	border: 1px solid black;
+	width: 100%;
+}
+#iskription{
+	min-width: 300px;
+	width: 32%;
+	text-align: center;
+	border: 1px solid black;
+	margin-left: 33%;
+ 	margin-right: 33%;
+ 	margin-top: 200px;
+
+}
+.divimage{
+	height:150px;
+	width:;
+}
+.desc{
+	color: white;
+}
+#fixe
+{
+	background-color: white;
+	border: 1px solid black;
+   position: fixed;
+   width: 900%;
+   height: 30%;
+   top: 0px;
+   bottom: 0px;
+}
+
+/* CSS UN PEU PLUS BEAU */
+
+#overlay {
+	z-index:99999 !important;
+	background-position:center center;
+	background-size:40%;
+	background-repeat: no-repeat;
+}
+
+.img-select-back {
+	border-radius:100%;
+	border:1px solid white;
+	padding:10px;
+	cursor:pointer;
+	max-height:100px;
+}
+
+.img-select-back:hover {
+	background: rgba(0,0,0,.3);
+	border:1px solid #e74c3c;
+}
+
+.img-select-back.active {
+	border:1px solid #c0392b;
+	background: #e74c3c;
+}
+
+.img-select-back.active:hover {
+	border:1px solid white;
+}
+.foto {
+	height: 50%;
+	margin-left: 33%;
+ 	margin-right: 33%;
+ 	margin-top: 200px;
+}

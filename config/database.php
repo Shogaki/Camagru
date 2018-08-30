@@ -1,5 +1,5 @@
 <?php
-	$DB_DSN = 'mysql:dbname=CAMAGRUPD;host=localhost';
-	$DB_USER = 'admin';
-	$DB_PASSWORD = 'mdr';
+	$DB_DSN = 'mysql:dbname=camagru;host=localhost';
+	$DB_USER = 'root';
+	$DB_PASSWORD = '123456';
 ?>
